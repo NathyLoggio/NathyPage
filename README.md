@@ -1,2 +1,0 @@
-# NathyPage
-SENAC TECH (project)
